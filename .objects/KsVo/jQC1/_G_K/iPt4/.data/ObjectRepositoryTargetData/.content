@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JmDV42dkcUe6fvi0AEBKzw" Reference="lEG6ImF44Uqp9t_eJJKOJA/iPt4vN6t1U6XTvvmmitmBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/683dc1ec1ca62981435cd5d8/11/true" CVScreenId="661321b7-bdb8-45f7-bcc6-7f7d4aa9babc" DesignTimeRectangle="377, 388, 1165, 72" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-center text-white header' /&gt;" Guid="9ad2dd80-1659-4bad-b7b9-66bcfc3e16ca" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-*' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8e8b0083-5a40-4ed8-8514-b4519d9275ea" DesignTimeRectangle="309, 123, 227, 98" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='IMG' type='' class='vertical-center' aaname='' /&gt;" Guid="96291fa4-2680-401d-aa4b-bf6682677097" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2403db772af16f23da29ad85fc52c9d4.png" xmlns="">0iVDaTwxMX0KyAz_8r65W2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

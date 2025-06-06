@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into Loan Amount Field",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "3wF9qED8GU6jtuwVI_iNUA",
+  "Reference": "lEG6ImF44Uqp9t_eJJKOJA/3wF9qED8GU6jtuwVI_iNUA",
+  "ParentRef": "lEG6ImF44Uqp9t_eJJKOJA/_G_K3Hp_VkuDD-06FK4DGg",
+  "Created": "2025-06-01T15:44:00.7289783Z",
+  "Updated": "2025-06-01T15:44:00.7289783Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

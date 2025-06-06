@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Ui Bank Home Page",
+  "Type": "App",
+  "Id": "KsVoi0zbDkCScb6CvxARLA",
+  "Reference": "lEG6ImF44Uqp9t_eJJKOJA/KsVoi0zbDkCScb6CvxARLA",
+  "Created": "2025-06-01T15:04:18.863121Z",
+  "Updated": "2025-06-01T15:08:05.6631536Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

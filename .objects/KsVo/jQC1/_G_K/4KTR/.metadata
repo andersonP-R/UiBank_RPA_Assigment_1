@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into Loan Term Field",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "4KTRKYmGzkqTmLg_IssmjA",
+  "Reference": "lEG6ImF44Uqp9t_eJJKOJA/4KTRKYmGzkqTmLg_IssmjA",
+  "ParentRef": "lEG6ImF44Uqp9t_eJJKOJA/_G_K3Hp_VkuDD-06FK4DGg",
+  "Created": "2025-06-01T15:51:23.9402546Z",
+  "Updated": "2025-06-01T15:51:23.9402546Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZMth5i0qNUOFW_RsrK1eOA" Reference="lEG6ImF44Uqp9t_eJJKOJA/9oAlzBMNLkiOf6hBIE9sDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="f2b7d950-2c98-4416-a839-bed6ef06d69e" DesignTimeRectangle="641, 854, 636, 68" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='income' tag='INPUT' /&gt;" Guid="2e47a774-6ab9-4834-8ccc-404aa2042ca1" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f2b7d950-2c98-4416-a839-bed6ef06d69e" CvTextArea="639, 832, 262, 17" CvTextArgument="Current Yearly Income (Before Taxes)" CvType="Text" DesignTimeRectangle="641, 831, 261, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Current Yearly Income (Before Taxes)' tag='LABEL' type='' class='uibank-label' check:innerText='Current Yearly Income (Before Taxes)' /&gt;" Guid="5ab25687-9ab1-4916-a360-80a256544d0f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f366bff2459bc42331ef166147341e5e.png" xmlns="">07OFmLWGmg0ib3jDVc1coUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

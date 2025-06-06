@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Ui Bank Home Page",
+  "Type": "Screen",
+  "Id": "_G_K3Hp_VkuDD-06FK4DGg",
+  "Reference": "lEG6ImF44Uqp9t_eJJKOJA/_G_K3Hp_VkuDD-06FK4DGg",
+  "ParentRef": "lEG6ImF44Uqp9t_eJJKOJA/jQC17xhHd0yHEuwApr1-Qg",
+  "Created": "2025-06-01T15:04:18.8849177Z",
+  "Updated": "2025-06-01T15:08:01.5612598Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

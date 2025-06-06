@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into Email Address Field",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "5sFPWkgoKEGTGQIX5WdwNA",
+  "Reference": "lEG6ImF44Uqp9t_eJJKOJA/5sFPWkgoKEGTGQIX5WdwNA",
+  "ParentRef": "lEG6ImF44Uqp9t_eJJKOJA/_G_K3Hp_VkuDD-06FK4DGg",
+  "Created": "2025-06-01T15:41:33.5524537Z",
+  "Updated": "2025-06-01T15:41:33.5524537Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

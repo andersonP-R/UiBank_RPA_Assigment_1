@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qQnp53nBf0ePS4KcS9llJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="f2b7d950-2c98-4416-a839-bed6ef06d69e" CvElementArea="641, 973, 636, 69" CvType="InputBox" DesignTimeRectangle="641, 973, 636, 68" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='age' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='age' tag='INPUT' type='number' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Please enter your age' aaname='Age' /&gt;" Guid="541abd77-b8e5-42a4-8c31-7080c6113d10" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f2b7d950-2c98-4416-a839-bed6ef06d69e" CvTextArea="639, 952, 31, 17" CvTextArgument="Age" CvType="Text" DesignTimeRectangle="641, 949, 28, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Age' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Age' tag='LABEL' type='' class='uibank-label' check:innerText='Age' /&gt;" Guid="f277ecaa-7799-45e8-b8d9-5ef5041024ce" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2c13eca65ef7891d2ee2882ceaedbaa7.png" xmlns="">0NJw-eo2UH0ibYRkk-C91Ww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

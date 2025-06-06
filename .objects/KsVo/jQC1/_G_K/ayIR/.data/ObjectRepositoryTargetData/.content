@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="233LpK46oEu3V5oGyUDHdA" Reference="lEG6ImF44Uqp9t_eJJKOJA/ayIR3S5kVUidSqbHKbefPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result//0/false" DesignTimeRectangle="380, 388, 1178, 145" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-center text-white header' /&gt;" Guid="39559cbc-728e-4b06-a68d-1f6bb1cb2a17" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-*' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="12234d91-9e06-4f75-aad2-38483b6617d3" DesignTimeRectangle="380, 542, 1178, 72" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='text-center text-white' aaname=' You must be at least 18 years old for a loan and the loan must not exceed 100k. ' check:innerText='You must be at least 18 years old for a loan and the loan must not exceed 100k.' /&gt;" Guid="0f33826d-abb2-4917-8adc-d7d65faa0202" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4cab61192337518690924ecc38086730.png" xmlns="">0BNdk1i8oxUWHfi9EeaepFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
