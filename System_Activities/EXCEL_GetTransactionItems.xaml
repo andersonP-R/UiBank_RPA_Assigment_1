@@ -106,7 +106,7 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message - Reading Excel File" sap:VirtualizedContainerService.HintSize="452.8,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;Reading excel file..&quot;]" />
+    <ui:LogMessage DisplayName="Log Message - Reading Excel File" sap:VirtualizedContainerService.HintSize="452.8,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;Reading excel file archive ..&quot;]" />
     <TryCatch DisplayName="Try to read the excel file" sap:VirtualizedContainerService.HintSize="452.8,1122.4" sap2010:WorkflowViewState.IdRef="TryCatch_2">
       <TryCatch.Try>
         <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="451.2,171.2" sap2010:WorkflowViewState.IdRef="Sequence_4">
